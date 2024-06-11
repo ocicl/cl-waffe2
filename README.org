@@ -4,6 +4,6 @@ Graph and Tensor Abstraction for Deep Learning all in Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/hikettei/cl-waffe2.git |
-| commit  | f7eb206                                       |
+| commit  | b9ec982                                       |
 | systems | cl-waffe2                                     |
 |---------+-----------------------------------------------|
