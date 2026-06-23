@@ -7,4 +7,4 @@ Graph and Tensor Abstraction for Deep Learning all in Common Lisp
 | commit  | e83ab23                                       |
 | systems | cl-waffe2                                     |
 |---------+-----------------------------------------------|
- 
+  
